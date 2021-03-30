@@ -1,0 +1,23 @@
+{
+  "name": "challengeme",
+  "version": "1.0.0",
+  "description": "Interview Challenges",
+  "main": "bin/index.js",
+  "bin": {
+    "challengeme": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Scott",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "firebase": "^8.3.1",
+    "moment-timezone": "^0.5.33",
+    "readline-sync": "^1.4.10",
+    "yargs": "^16.2.0"
+  }
+}
