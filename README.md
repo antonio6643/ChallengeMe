@@ -3,7 +3,7 @@
 ## Installing
 To install, type
 ```console
-npm install
+npm install -g
 ```
 
 ## Creating a Challenge
