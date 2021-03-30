@@ -32,6 +32,10 @@ node test.js INPUT_HERE
 ```
 to test it.
 
+**Demo Video:** https://youtu.be/Wsz3IEqJsu4
+
+**Example Discord Webhook Screenshot:** ![Webhook](https://i.imgur.com/LyNOL3T.png)
+
 ## TODO
 - Instruction video
 - Proper timer
