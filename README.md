@@ -1,5 +1,11 @@
 # ChallengeMe
 
+## Installing
+To install, type
+```console
+npm install
+```
+
 ## Creating a Challenge
 To create a challenge, simply type
 ```console
