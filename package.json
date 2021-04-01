@@ -16,6 +16,7 @@
     "boxen": "^5.0.0",
     "chalk": "^4.1.0",
     "firebase": "^8.3.1",
+    "firebase-encode": "0.0.5",
     "moment-timezone": "^0.5.33",
     "readline-sync": "^1.4.10",
     "yargs": "^16.2.0"
