@@ -23,7 +23,7 @@ $ challengeme create
 The program will guide you through a set of questions. After answering the questions, the program will give you a code. Give this code to whoever you want to take the challenge.
 
 # Test
-To participate in a challenge, type
+To participate in a challenge, **navigate to the directory with your code** and type
 ```console
 $ challengeme test [CODE]
 ```
